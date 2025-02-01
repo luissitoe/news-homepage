@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Go to solution](https://your-solution-url.com)
-- Live Site URL: [News Homepage](https://your-live-site-url.com)
+- Solution URL: [Go to solution](https://github.com/luissitoe/news-homepage)
+- Live Site URL: [News Homepage](https://luissitoe.github.io/news-homepage/)
 
 ## My process
 
