@@ -187,6 +187,12 @@ Featured
     font-weight: var(--fw-700);
     text-transform: uppercase;
     letter-spacing: 5px;
+    transition: background-color .4s ease-in;
+}
+
+.btn:hover {
+    background-color: var(--very-dark-blue);
+    color: var(--off-white);
 }
 
 /*
@@ -330,7 +336,7 @@ Media queries
     .featured__content {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        padding: 2rem 0;
+        padding: 3rem 0;
         gap: 3rem;
     }
 
