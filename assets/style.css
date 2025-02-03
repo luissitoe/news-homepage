@@ -171,7 +171,7 @@ Featured
     display: inline-block;
     background-color: var(--soft-red);
     padding: 1.8rem 3rem;
-    font-size: var(--fs-medium);
+    font-size: var(--fs-base);
     color: var(--very-dark-blue);
     font-weight: var(--fw-700);
     text-transform: uppercase;
